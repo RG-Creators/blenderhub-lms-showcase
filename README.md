@@ -1,4 +1,4 @@
-# BlenderHub LMS & 3D Asset Marketplace � Digital Asset Distribution & E-Learning Platform
+# BlenderHub LMS & 3D Asset Marketplace — Digital Asset Distribution & E-Learning Platform
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![3D Pipeline](https://img.shields.io/badge/3D%20Engine-Blender%20%7C%20GLTF%20%7C%20FBX-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://blender.org)
@@ -9,7 +9,7 @@
 
 ---
 
-## ?? System Architecture & Digital Asset Pipeline
+## 🏗️ System Architecture & Digital Asset Pipeline
 
 ```
 +-------------------------------------------------------------------------------+
@@ -41,7 +41,7 @@
 
 ---
 
-## ? Core Platform Highlights
+## ⚡ Core Platform Highlights
 
 ### 1. 3D Digital Asset Distribution Hub
 - Comprehensive metadata management: Polycount, vertex count, PBR texture maps, rigged/animated status, and file format compatibility (`.blend`, `.fbx`, `.obj`, `.gltf`).
@@ -58,7 +58,7 @@
 
 ---
 
-## ?? Tech Stack
+## 🛠️ Tech Stack
 
 - **Backend**: Core PHP 8.2+ (Modular Architecture, MySQLi Prepared Statements, Session Protection)
 - **Frontend**: Responsive CSS Grid / Flexbox, SweetAlert2 Dialogs, FontAwesome 6, Modern Typography
@@ -66,7 +66,7 @@
 
 ---
 
-## ?? Proprietary Code Notice
+## 🔒 Proprietary Code Notice
 The underlying codebase, creator licensing algorithms, and payment verification mechanisms are privately maintained. For commercial partnerships, white-label inquiries, or architectural reviews, please contact:
 - **Developer**: RG
 - **Email**: [rgcreatorsofficial@gmail.com](mailto:rgcreatorsofficial@gmail.com)
