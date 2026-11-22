@@ -1,4 +1,4 @@
-# Changelog — BlenderHub LMS & 3D Asset Marketplace
+# Changelog â€” BlenderHub LMS & 3D Asset Marketplace
 
 All notable changes to this project will be documented in this file.
 
